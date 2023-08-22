@@ -189,4 +189,95 @@ body{
 
     .services-list div:hover{
       background: #20eb3b;
+      color: #080808;
     }
+
+    /*----------------contact------------------------*/
+
+    .contact-left{
+      flex-basis: 35%;
+    }
+
+   .contact-right{
+      flex-basis: 60%;
+    
+    }
+
+     .contact-left p{
+          margin-top: 30px; 
+      }
+
+    .contact-right form{
+      display: flex;
+      flex-direction: column;
+    }
+
+        .contact-left p i{
+          color:#20eb3b;
+          margin-right: 15px;
+          font-size: 25px;
+        }
+
+        .social-icons{
+          margin-top: 35px;
+        }
+
+        .social-icons a{
+          text-decoration: none;
+          font-size: 30px;
+          margin-right: 15px;
+          color:#20eb3b;
+          display: inline-block;
+          transition: transform 0.5 s;
+
+        }
+
+        .social-icons a:hover{
+          color:#fff;
+          transition: .5s;
+          transform: translateY(-5px)
+        }
+.btn{
+  display: inline-block;
+  background: white;
+  padding: 25px 24px;
+  border-radius: 25px;
+  color: #080808;
+  transition: .7s;
+  margin: 10px 0;
+ }
+
+ .btn.btn2:hover{
+background-color: #20eb3b;
+color: black;
+ }
+.contact-right form{
+  width:100%;
+}
+
+form input, form textarea{
+  width:100%;
+  border:0;
+  outline: none;
+  background: #262626;
+  padding:15px;
+  margin: 15px 0;
+  color:#20eb3b;
+  font-size: 18px;
+  border-radius: 6px;
+}
+
+form .btn2{
+  padding: 14px 60px;
+  font-size:18px;
+  margin-top: 20px;
+  cursor:pointer;
+}
+
+@media screen and (max-width: 768px) {
+  .contact-left,
+  .contact-right {
+    flex-basis: 100%;
+    margin-left: 0;
+  }
+}
