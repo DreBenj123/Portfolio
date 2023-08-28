@@ -4,6 +4,9 @@
     font-family: 'Times New Roman', Times, serif;
     box-sizing: border-box;
 }
+html{
+  scroll-behavior: smooth;
+}
 
 body{
     background: #080808;
@@ -11,12 +14,16 @@ body{
 }
 
 #header{
+  display:flex;
+  justify-content: space-between;
     width: 100%;
     height: 50vh;
     background-image: url(Images_Portfolio/20230425_114124.jpg);
     background-size: contain;
     background-position:center right;
     background-repeat: no-repeat;
+
+    height: auto;
 }
   nav{
     display: flex;
@@ -65,6 +72,7 @@ body{
   .header-text{
     margin: top 20%;
     font-size: 30px;
+
   }
   .header-text h1{
     font-size: 60px;
@@ -151,6 +159,7 @@ body{
   .tab-contents.active-tab{
     display: block;
   }
+
 
   /*---------------services-------------*/
   
@@ -273,11 +282,13 @@ form .btn2{
   margin-top: 20px;
   cursor:pointer;
 }
-
-@media screen and (max-width: 768px) {
-  .contact-left,
-  .contact-right {
-    flex-basis: 100%;
-    margin-left: 0;
-  }
+/*--------------------------------*/
+@media only screen and (max-width: 600px) {
+  .header-text{
+    margin-top: 100%;
+    font: size 16px;
+}
+.header-text h1{
+  font-size: 30px;
+}
 }
