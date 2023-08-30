@@ -1,0 +1,69 @@
+﻿PROFESSIONAL SUMMARY 
+After completing a 10 month Software Development bootcamp at North Carolina State University in November 2022, which taught me the building blocks of different languages like JavaScript, HTML, and Python; I went on a job search for a few months before being contacted by a recruiter at Townsquare Interactive where I spent about 4 months as a Website Quality Assurance Specialist. While unexpectedly laid off, I gained a lot of experience that can’t just be taught. Adapting to an in-office and remote schedule were very valuable for me. I was also able to hone in on my collaborative and communication skills while working with a bigger team of people. I look forward to showcasing the things I have learned as well as my ability to adapt to adverse situations as I continue my career.
+EDUCATION
+North Carolina State University
+Software Development Certificate, November 2022. A 10 month software development program covering numerous popular programming languages in-depth; including HTML, CSS, JavaScript, Python, Cybersecurity, SQL and Non SQL and more. 
+
+
+NC State | Software Development Certificate | February 2022-November 2022.                                                                                                                                                  
+TECHNICAL SKILLS
+Technical Skills: Quality Assurance, Critical Thinking, Time Management
+Programming Languages: Foundational Knowledge of Python.
+Data modeling: SQL
+Additional Relevant Experience: Basic knowledge of front end languages like HTML and CSS. Also foundational knowledge of JavaScript and Python. 
+PROJECT EXPERIENCE | North Carolina State University   
+
+
+Recipe App
+* Created a full MERN stack app with a group project.
+* I was able to create a database using MongoDB and connect it to my codebase and eventually connect it to the front end side, which my team worked on.
+* Data could be updated, changed, and deleted.
+* https://github.com/carsonneagle/Milestone-2-BackEnd
+
+
+Browser Game
+* Created a web browser game based on the card game War.
+* Used JavaScript, CSS and HTML to complete the project.
+(This can be found in my github https://github.com/DreBenj123/Dres-War-Card-Game )
+
+
+
+
+Python 
+* Created a repository where I coded a few classic games: “Guess the Number” ,“Rock Paper Scissors”, and “Mad Libs”
+* All of these demonstrate how to use input fields.
+* Create a statement for desired output.
+* Test and run to ensure the correct outcome.
+(This can be found on my github https://github.com/DreBenj123/python-code-practice )
+
+
+
+
+
+
+
+
+Professional Experience
+
+
+August 2023 - Now
+Currently I am an Uber Eats Delivery Driver and back at Tap and Vine, as a Lead Line Cook for the sister restaurant in StoneCrest. I am working part-time while I continue to build my skills as a software developer. Doing Uber Deliveries has been a good experience, because I am getting a chance to sharpen my customer service skills, as well as getting to know the streets of Charlotte in a more intimate way. Learning how and when to navigate the roads in the Queen City has been a challenging, yet fun experience.
+
+
+April 2023 - August 2023
+I gained valuable experience as a Website Quality Assurance Specialist at Townsquare Interactive media marketing company.  Here I learned how to use test cases to spot bugs, grammar mistakes, and other functionality issues with websites that were not caught during development. Communication of bugs and other errors found was vital to my success. Websites went through many different teams, from production to development to QA, so it was important that things were communicated clearly and thoroughly. Working while under the pressure of deadlines and meeting minimums was also a valuable experience for me.
+
+
+Summer 2020 - April 2023
+ Working in an Upscale Wine Restaurant Tap and Vine, Indian Trail for the first few months starting as a dishwasher. I had worked my way up to Lead Line Cook. Where I lead when called upon, and take care of things like prep lists and organization around the kitchen.
+
+
+Career Break
+November 2016 - Summer 2020
+Diagnosed with lymphoma
+
+
+December 2015-Summer 2016
+
+
+My first job was as a gas station clerk for Exxon Mobil. Here I learned the base of my customer service skills, working the midnight shift you see a lot of things. Being in control of all situations and keeping the customer happy was always my biggest concern and #1 priority. Stocking items, keeping lists of inventory, and checking and marking gas tank levels all helped with my attention to detail.
